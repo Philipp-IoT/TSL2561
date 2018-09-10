@@ -1,0 +1,6 @@
+TSL2561 module
+==============
+
+.. automodule:: TSL2561
+    :members:
+    :show-inheritance:
